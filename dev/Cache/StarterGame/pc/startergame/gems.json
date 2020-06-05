@@ -38,6 +38,12 @@
             "_comment": "Footsteps"
         },
         {
+            "Path": "Gems/DevTextures",
+            "Uuid": "2c227161447b4d77a5b07c093e214fe3",
+            "Version": "0.1.0",
+            "_comment": "DevTextures"
+        },
+        {
             "Path": "Gems/ScriptEvents",
             "Uuid": "32d8ba21703e4bbbb08487366e48dd69",
             "Version": "0.1.0",
@@ -74,10 +80,28 @@
             "_comment": "ExpressionEvaluation"
         },
         {
+            "Path": "Gems/PhysX",
+            "Uuid": "4e08125824434932a0fe3717259caa47",
+            "Version": "0.1.0",
+            "_comment": "PhysX"
+        },
+        {
             "Path": "Gems/Clouds",
             "Uuid": "4f293a6f11ab4cd7b9db3017d12b5eda",
             "Version": "0.1.0",
             "_comment": "Clouds"
+        },
+        {
+            "Path": "Gems/PhysXCharacters",
+            "Uuid": "50f9ae1e09ac471bbd9d86ca8063ddf9",
+            "Version": "0.1.0",
+            "_comment": "PhysXCharacters"
+        },
+        {
+            "Path": "Gems/PhysXDebug",
+            "Uuid": "516145e2d9904b13813f1b54605e26a6",
+            "Version": "0.1.0",
+            "_comment": "PhysXDebug"
         },
         {
             "Path": "Gems/InputManagementFramework",
@@ -114,6 +138,12 @@
             "Uuid": "6056556b6088413984309c4a413593ad",
             "Version": "1.0.0",
             "_comment": "Gestures"
+        },
+        {
+            "Path": "Gems/DebugDraw",
+            "Uuid": "66239f50bf754354b514c850c8b841fb",
+            "Version": "0.1.0",
+            "_comment": "DebugDraw"
         },
         {
             "Path": "Gems/AudioEngineWwise",
@@ -182,6 +212,18 @@
             "_comment": "RoadsAndRivers"
         },
         {
+            "Path": "Gems/ImGui",
+            "Uuid": "bab8807a1bc646b3909f3cc200ffeedf",
+            "Version": "0.1.0",
+            "_comment": "ImGui"
+        },
+        {
+            "Path": "Gems/PhysXSamples",
+            "Uuid": "c4a4aadba44241ae9f0141e145def7f7",
+            "Version": "0.1.0",
+            "_comment": "PhysXSamples"
+        },
+        {
             "Path": "Gems/Water",
             "Uuid": "c5083fcf89b24ab68fb0611c01a07b1d",
             "Version": "0.1.0",
@@ -222,6 +264,12 @@
             "Uuid": "e5f049ad7f534847a89c27b7339cf6a6",
             "Version": "0.1.0",
             "_comment": "Rain"
+        },
+        {
+            "Path": "Gems/PrimitiveAssets",
+            "Uuid": "ed07631f95fb4be1bd10cd37298ec697",
+            "Version": "1.0.0",
+            "_comment": "PrimitiveAssets"
         },
         {
             "Path": "Gems/ImageProcessing",

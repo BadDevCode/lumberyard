@@ -1,0 +1,6 @@
+<download name="lalala" type="Map">
+ <index src="filelist.xml" dest="filelist.xml"/>
+ <files>
+  <file src="level.pak" dest="level.pak" size="7811" md5="6205c12706dba1c27bd809ea91d34bab"/>
+ </files>
+</download>
