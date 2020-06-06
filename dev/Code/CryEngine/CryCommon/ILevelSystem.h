@@ -90,7 +90,7 @@ struct ILevelInfo
     virtual ~ILevelInfo() {}
     typedef std::vector<string> TStringVec;
 
-    struct TGameTypeInfo
+    typedef struct
     {
         string  name;
         string  xmlFile;
@@ -100,7 +100,7 @@ struct ILevelInfo
             pSizer->AddObject(name);
             pSizer->AddObject(xmlFile);
         }
-    };
+    } TGameTypeInfo;
 
     struct SMinimapInfo
     {
