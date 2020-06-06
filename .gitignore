@@ -101,6 +101,7 @@
 # Most of these directories are brought in by executing git_bootstrap.
 /3rdParty
 /dev/AssetProcessorTemp
+/dev/Battles_on_Stream_savage
 /dev/BinTemp
 /dev/Bin64
 /dev/Bin64vc141

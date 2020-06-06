@@ -1,0 +1,3 @@
+[2020-06-07T00:51:54] [12968:5060:20200607,005154.472:ERROR main.cpp:27] Initializing windows crash uploader
+[2020-06-07T01:02:12] [22720:21124:20200607,010212.131:ERROR main.cpp:27] Initializing windows crash uploader
+[2020-06-07T01:08:03] [22720:21124:20200607,010803.082:ERROR main.cpp:27] Initializing windows crash uploader
